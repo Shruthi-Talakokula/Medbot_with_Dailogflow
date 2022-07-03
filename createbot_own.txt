@@ -1,0 +1,8 @@
+https://dialogflow.cloud.google.com/#/agent
+
+
+The Dialogflow application from google will be opened by the above link
+
+Create intents by the given options
+
+Thus, after adding all the content...go to integrations and enable web demo, collect the frame link and paste it in your own html web page,
